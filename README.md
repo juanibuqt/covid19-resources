@@ -1,18 +1,35 @@
-## covid19-resources
-Recursos sobre COVID-19
+# covid19-resources
 
-# FaceShields o Protectores Faciales utilizando Impresion 3D
-<p> Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPI (Equipo de Proteccion Individual).</p>
+## FaceShields o Protectores Faciales utilizando Impresion 3D
+Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPI (Equipo de Proteccion Individual).
 
 Hay cientos de diseños, testie algunos, pongo cada uno a continuacion con sus ventajas y desventajas y algunos datos importantes a tener en cuenta, materiales a utilizar y como mantener una cadena de seguridad para que no se contaminen y lleguen sin riesgo a quienes lo van a utilizar.
 
 * Materiales
-Actualmente se esta imprimiendo con lo que se tiene, pero los materiales ideales para impresion son PLA o 
+Actualmente se esta imprimiendo con lo que se tiene, pero los materiales ideales para impresion son PETG o PLA.
+ABS no lo recomiendo por ser mas dificil para imprimir por tema temperaturas o tener una impresora cerrada idealmente, tambien por tema toxicidad en el proceso de impresion.
+
+* Esterilizacion o Desinfeccion
+Todas estas mascaras impresas 3D por ser justamente impresas 3D son porosas y suceptibles a generar espacios donde es dificil su desinfeccion 100%. Las mismas no estan pensadas para ser "esteriles" sino que sean lo mas "limpias o desinfectadas" posibles.
+
+Es por esto que la recomendacion es desinfectarlas con alcohol.
+En caso de intentar esterilizarlas, las impresas en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
+
+Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio.
+
+## LEER CON ATENCION! - Manipulacion de las mascaras o elementos impresos
+
+- Lo ideal es manejarse como si uno estuviera infectado por COVID-19, basicamente porque por mas que no tengamos sintomas o lo estemos, podemos ser portadores sin saberlo. 
+- Utiliza una mascara o barbijo, un par de guantes sin utilizar previamente para manipular las piezas impresas o ensamblar las mascaras.
+- Guarda las partes o mascaras ensambladas en una bolsa y sellala inmediatamente.
+- Habla con el personal de salud a quien le estas haciendo las mascaras y contale donde y como es el entorno donde estas imprimiendo.
+- Aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero papers especializados hablan de 2 a 3 dias.
+Eso significa que dejar las piezas impresas o mascaras ensambladas a resguardo por 2 o 3 dias antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus.
+- No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada.
 
 
-* Prusa Protective Face Shield - RC1 & RC2
+### Prusa Protective Face Shield - RC1 & RC2
 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/remixes
-https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2/1527#_ga=2.221386456.1737960571.1585090252-1369968459.1584756921
 
 Tiempo Impresion: 
 Consumo de material:
@@ -27,7 +44,7 @@ CONS
 - Es preciso utilizar muchisimo material vs otros modelos.
 - Mucho tiempo de impresion.
 
-* Reversion Argentina de Prusa Face Shield - RC2 - Che3D
+### Reversion Argentina de Prusa Face Shield - RC2 - Che3D
 https://www.thingiverse.com/thing:4235551
 
 Tiempo Impresion: 
@@ -48,7 +65,7 @@ CONS
 - Sigue siendo necesario bastante tiempo de impresion.
 
 
-* Prusa Protective Face Shield - RC2 - A4 Remix
+### Prusa Protective Face Shield - RC2 - A4 Remix
 https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-remix/files
 
 
@@ -58,12 +75,19 @@ https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-r
 
 ### FaceShields o Protectores Faciales utilizando Corte laser
 
-* LaserCut Medical Shield - Protector Facial por corte laser
+# LaserCut Medical Shield - Protector Facial por corte laser
 
 https://hackaday.io/project/170481-laser-cut-medical-shield
 
 
+### FaceShields o Protectores Faciales caseros
 
+# Protector Facial casero - Opcion 1
+Idea: Florencia Araoz y Beatriz Araoz
+
+
+# Protector Facial casero - Opcion 2
+Idea: Marcos
 
 
 
