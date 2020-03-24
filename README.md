@@ -17,7 +17,7 @@ En caso de intentar esterilizarlas, las impresas en PLA pueden hacerse con oxido
 
 Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio.
 
-## LEER CON ATENCION! - Manipulacion de las mascaras o elementos impresos
+# LEER CON ATENCION! - Manipulacion de las mascaras o elementos impresos
 
 - Lo ideal es manejarse como si uno estuviera infectado por COVID-19, basicamente porque por mas que no tengamos sintomas o lo estemos, podemos ser portadores sin saberlo. 
 - Utiliza una mascara o barbijo, un par de guantes sin utilizar previamente para manipular las piezas impresas o ensamblar las mascaras.
@@ -28,7 +28,7 @@ Eso significa que dejar las piezas impresas o mascaras ensambladas a resguardo p
 - No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada.
 
 
-### Prusa Protective Face Shield - RC1 & RC2
+# Prusa Protective Face Shield - RC1 & RC2
 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/remixes
 
 Tiempo Impresion: 
@@ -44,7 +44,7 @@ CONS
 - Es preciso utilizar muchisimo material vs otros modelos.
 - Mucho tiempo de impresion.
 
-### Reversion Argentina de Prusa Face Shield - RC2 - Che3D
+# Reversion Argentina de Prusa Face Shield - RC2 - Che3D
 https://www.thingiverse.com/thing:4235551
 
 Tiempo Impresion: 
@@ -65,7 +65,7 @@ CONS
 - Sigue siendo necesario bastante tiempo de impresion.
 
 
-### Prusa Protective Face Shield - RC2 - A4 Remix
+# Prusa Protective Face Shield - RC2 - A4 Remix
 https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-remix/files
 
 
@@ -73,14 +73,14 @@ https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-r
 
 
 
-### FaceShields o Protectores Faciales utilizando Corte laser
+## FaceShields o Protectores Faciales utilizando Corte laser
 
 # LaserCut Medical Shield - Protector Facial por corte laser
 
 https://hackaday.io/project/170481-laser-cut-medical-shield
 
 
-### FaceShields o Protectores Faciales caseros
+## FaceShields o Protectores Faciales caseros
 
 # Protector Facial casero - Opcion 1
 Idea: Florencia Araoz y Beatriz Araoz
