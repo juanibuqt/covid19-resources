@@ -50,7 +50,7 @@ CONS
 - Es preciso utilizar muchisimo material vs otros modelos.
 - Mucho tiempo de impresion.
 
-### Reversion Argentina de Prusa Face Shield - RC2 - Che3D
+### Reversion Argentina de Prusa Face Shield - RC2
 https://www.thingiverse.com/thing:4235551
 
 Tiempo Impresion: 
@@ -69,22 +69,6 @@ PRO
 CONS
 - Sigue demandando bastante material vs otros modelos mas simples.
 - Sigue siendo necesario bastante tiempo de impresion.
-
-
-### Reversion v01 (Grupo Mascaras Preventivas) de la reversion Argentina de Prusa Face Shield - RC2 - Che3D
-Equipo de diseño del grupo "Mascaras Preventivas" - https://chat.whatsapp.com/GTM0y1piS1GLV6pxZ6tg0c
-Diseño ajustado y simplificado por Matias MDQ - matuking@gmail.com
-
-Tiempo Impresion: 1:10 hs de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
-
-Consumo de material: 20 gr de PLA
-
-PRO
-- El diseño cumple su funcion, es resistente. 
-- Es un modelo optimizado para tardar menos tiempo aun y utilizar menos material que la version optimizada del modelo de Prusa hecho en Arg.
-
-CONS
-- Sigue utilizando mas material y tardando mas tiempo que la version mas simplificada
 
 
 ### Prusa Protective Face Shield - RC2 - A4 Remix
