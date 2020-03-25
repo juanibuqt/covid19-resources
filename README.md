@@ -117,6 +117,3 @@ Por Florencia Araoz y Dra. Beatriz Araoz
 ### Protector Facial casero - Opcion 2 (En proceso)
 
 Por Marcos
-
-
-**[`^        back to top        ^`](#)**
