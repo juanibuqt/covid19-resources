@@ -112,7 +112,7 @@ https://hackaday.io/project/170481-laser-cut-medical-shield
 ### Protector Facial casero - Opcion 1
 https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opcion1
 
-Por Florencia Araoz y Dra. Beatriz Araoz
+Por Fonoaudiologa Florencia Araoz y Dra. Beatriz Araoz (Lab3bio - UNSAM)
 
 ### Protector Facial casero - Opcion 2 (En proceso)
 
