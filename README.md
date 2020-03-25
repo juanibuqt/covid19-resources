@@ -25,7 +25,7 @@ Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics 
 * Guarda las partes o mascaras ensambladas en una bolsa y sellala inmediatamente.
 * Habla con el personal de salud a quien le estas haciendo las mascaras y contale donde y como es el entorno donde estas imprimiendo.
 * Aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero papers especializados hablan de 2 a 3 dias.
-Eso significa que dejar las piezas impresas o mascaras ensambladas a resguardo por 2 o 3 dias antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus.
+Eso significa que dejar las piezas impresas o mascaras ensambladas a resguardo por 2 o 3 dias antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus. (Referencia: https://www.nejm.org/doi/full/10.1056/NEJMc2004973 / https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973)
 * No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada.
 
 
@@ -111,10 +111,12 @@ https://hackaday.io/project/170481-laser-cut-medical-shield
 
 ### Protector Facial casero - Opcion 1
 https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opcion1
-Idea: Florencia Araoz y Beatriz Araoz
+
+Por Florencia Araoz y Dra. Beatriz Araoz
 
 ### Protector Facial casero - Opcion 2 (En proceso)
-Idea: Marcos
+
+Por Marcos
 
 
 **[`^        back to top        ^`](#)**
