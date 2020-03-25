@@ -119,8 +119,8 @@ https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opc
 Por Lic. Fga Florencia Araoz y Dra. Beatriz Araoz (Lab3bio - UNSAM)
 
 ### Protector Facial casero - Opcion 2 (En proceso)
+https://github.com/juanibuqt/covid19-resources/raw/master/Faceshield-casero-opcion2/Mascara%20casera.pdf
 
+Por Marcos Bertuola - mbertuola@unsam.edu.ar / Marcos.bertuola@gmail.com (Lab3bio - UNSAM)
 
-Por Marcos Bertuola - mbertuola@unsam.edu.ar / Marcos.bertuola@gmail.com
-
-Por Marcos
+EoF
