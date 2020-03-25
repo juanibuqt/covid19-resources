@@ -13,10 +13,13 @@ ABS no lo recomiendo por ser mas dificil para imprimir por tema temperaturas o t
 ### Esterilizacion o Desinfeccion
 Todas estas mascaras impresas 3D por ser justamente impresas 3D son porosas y suceptibles a generar espacios donde es dificil su desinfeccion 100%. Las mismas no estan pensadas para ser "esteriles" sino que sean lo mas "limpias o desinfectadas" posibles.
 
-Es por esto que la recomendacion es desinfectarlas con alcohol.
+Es por esto que la recomendacion es desinfectarlas con alcohol al 70%.
 En caso de intentar esterilizarlas, las impresas en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
 
 Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio en la seccion "Papers>Info" - https://github.com/juanibuqt/covid19-resources/raw/master/Papers%20-%20Info/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
+
+### Regulacion
+Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU por FDA - https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html. Por el momento no hay comunicacion ni documentacion emitida en Argentina por ANMAT, ni a favor o en contra de las mismas.
 
 ## LEER CON ATENCION! - Manipulacion de las mascaras o elementos impresos
 
@@ -68,8 +71,8 @@ CONS
 
 
 ### Reversion v01 (Grupo Mascaras Preventivas) de la reversion Argentina de Prusa Face Shield - RC2 - Che3D
-Equipo de diseño del grupo "Mascaras Preventivas" - Rediseñado por Matias
-https://chat.whatsapp.com/GTM0y1piS1GLV6pxZ6tg0c
+Equipo de diseño del grupo "Mascaras Preventivas" - https://chat.whatsapp.com/GTM0y1piS1GLV6pxZ6tg0c
+Diseño ajustado y simplificado por Matias MDQ - matuking@gmail.com
 
 Tiempo Impresion: 1:10 hs de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
 
@@ -112,7 +115,7 @@ https://hackaday.io/project/170481-laser-cut-medical-shield
 ### Protector Facial casero - Opcion 1
 https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opcion1
 
-Por Fonoaudiologa Florencia Araoz y Dra. Beatriz Araoz (Lab3bio - UNSAM)
+Por Lic. Fga Florencia Araoz y Dra. Beatriz Araoz (Lab3bio - UNSAM)
 
 ### Protector Facial casero - Opcion 2 (En proceso)
 
