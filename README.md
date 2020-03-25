@@ -16,7 +16,7 @@ Todas estas mascaras impresas 3D por ser justamente impresas 3D son porosas y su
 Es por esto que la recomendacion es desinfectarlas con alcohol.
 En caso de intentar esterilizarlas, las impresas en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
 
-Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio en la seccion "Papers>Info".
+Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio en la seccion "Papers>Info" - https://github.com/juanibuqt/covid19-resources/raw/master/Papers%20-%20Info/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
 
 ## LEER CON ATENCION! - Manipulacion de las mascaras o elementos impresos
 
@@ -55,7 +55,7 @@ Tiempo Impresion:
 
 Consumo de material: 25 gr de PLA
 
-Optimizacion Maxima: 1 hs de impresion / 22 gr de PLA
+Optimizacion Maxima: 1:20 hs de impresion / 22 gr de PLA
 
 PRO
 - El diseño cumple su funcion, es resistente y comodo. 
@@ -71,10 +71,9 @@ CONS
 Equipo de diseño del grupo "Mascaras Preventivas" - Rediseñado por Matias
 https://chat.whatsapp.com/GTM0y1piS1GLV6pxZ6tg0c
 
-Tiempo Impresion: 
-xxx hs de impresión (ø0.4mm Nozzle - 0.3mm de altura de capa) 
+Tiempo Impresion: 1:10 hs de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
 
-Consumo de material: xxxxx gr de PLA
+Consumo de material: 20 gr de PLA
 
 PRO
 - El diseño cumple su funcion, es resistente. 
@@ -88,9 +87,9 @@ CONS
 https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-remix/files
 
 Tiempo Impresion: 
-xxx hs de impresión (ø0.4mm Nozzle - 0.3mm de altura de capa) 
+40 min de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
 
-Consumo de material: xxxxx gr de PLA
+Consumo de material: 14 gr de PLA
 
 PRO
 - El diseño cumple su funcion, es resistente. 
@@ -111,14 +110,11 @@ https://hackaday.io/project/170481-laser-cut-medical-shield
 ## FaceShields o Protectores Faciales caseros
 
 ### Protector Facial casero - Opcion 1
+https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opcion1
 Idea: Florencia Araoz y Beatriz Araoz
 
-
-
-
-### Protector Facial casero - Opcion 2
+### Protector Facial casero - Opcion 2 (En proceso)
 Idea: Marcos
-
 
 
 **[`^        back to top        ^`](#)**
