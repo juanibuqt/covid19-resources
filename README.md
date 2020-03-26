@@ -22,7 +22,7 @@ La tecnica de impresion 3D que se esta utilizando hoy dia para la rapida impresi
 
 Tambien hay que decir que las mismas no estan pensadas para ser "esteriles" sino que sean lo mas "limpias o desinfectadas" posibles. Hablamos de esterilidad cuando las piezas van a entrar en contacto con el organismo de un paciente de forma directa. En este caso hablamos de desinfeccion al no tener contacto directo con el mismo.
 
-Sin embargo hay que tener en cuenta la situacion actual de faltante total de este tipo de proteccion en los trabajadores de salud, por lo que podemos decir que en circunstancias de emergencia como las actuales, darian cierta via libre de utilizarse, pero tambien errar por el lado de la seguridad y tratarlos como de un solo uso es prudente, por lo que considerarlas como una "solucion temporal" de emergencia a corto plazo contra la escasez de otras opciones certificadas seria una buena practica.
+Sin embargo hay que tener en cuenta la situacion actual de faltante total de este tipo de proteccion en los trabajadores de salud, por lo que podemos decir que en circunstancias de emergencia como las actuales, darian cierta via libre de utilizarse, pero tambien por seguridad tratarlas como de un solo uso es prudente, por lo que considerarlas como una "solucion temporal" de emergencia a corto plazo contra la escasez de otras opciones certificadas seria una buena practica.
 
 En caso de intentar esterilizarlas, los impresos en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
 
