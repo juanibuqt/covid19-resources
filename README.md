@@ -1,7 +1,7 @@
 # covid19-resources
 Por donde empezar!
 
-## Informacion general sobre COVID-19
+## Informacion general sobre COVID-19 e impresion 3D de protectores faciales
 
 ### Cuanto tiempo vive el virus en superficies y como afecta a los protectores o piezas impresas?
 
@@ -43,17 +43,23 @@ Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU
 
 * Lo ideal es manejarse como si uno estuviera infectado por COVID-19, basicamente porque por mas que no tengamos sintomas o lo estemos, podemos ser portadores sin saberlo. 
 * Utiliza una mascara o barbijo, un par de guantes sin utilizar previamente para manipular las piezas impresas o ensamblar las mascaras.
-* Guarda las partes o mascaras ensambladas en una bolsa y sellala inmediatamente.
+* Guarda las partes o mascaras ensambladas en una bolsa y sellala inmediatamente de forma hermetica.
 * Habla con el personal de salud a quien le estas haciendo las mascaras y contale donde y como es el entorno donde estas imprimiendo.
-* Como explicaba arriba, aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero no entregues las mascaras hasta pasados 4 dias de haberlas impreso y que esten en una bolsa sellada y aislada.
+* Como explicaba arriba, aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero no entregues las mascaras hasta pasados 4 dias de haberlas impreso y que esten en una bolsa sellada y aislada con una etiqueta con la fecha de envasado (super importante!).
 * No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada, y trata de entregarlas lo antes posible una vez cumplido el plazo de "cuarentena" de las mismas para evitar el riesgo de que se contaminen al permanecer en tu casa o el entorno donde las almacenas.
+
+### Soy personal de salud, nunca use EPP (Equipo de Proteccion Personal) y desconozco los cuidados, cuales son? hay alguna forma de utilizar todo esto que tenga que saber?
+
+Si, existe una guia muy detallada sobre como se debe utilizar el EPP, cuidados y secuencia de colocacion de cada uno de los elementos, como tambien el descarte de los mismos. Toda esa informacion podes encontrarla en https://www.argentina.gob.ar/salud/coronavirus-COVID-19/recomendaciones-uso-epp
+
+
+----------------------------------------------------------------------------------------------------------------------
 
 ## Modelos de FaceShields o Protectores Faciales Impresos 3D
 
-Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPI (Equipo de Proteccion Individual).
+Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPP (Equipo de Proteccion Personal).
 
 Hay cientos de diseños, testie algunos, pongo cada uno a continuacion con sus ventajas y desventajas y algunos datos importantes a tener en cuenta, materiales a utilizar y como mantener una cadena de seguridad para que no se contaminen y lleguen sin riesgo a quienes lo van a utilizar.
-
 
 ### Prusa Protective Face Shield - RC1 & RC2
 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/remixes
