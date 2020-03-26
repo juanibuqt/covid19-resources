@@ -62,6 +62,9 @@ Los protectores faciales son extremadamente necesarios para la gente de salud, l
 Hay cientos de diseños, testie algunos, pongo cada uno a continuacion con sus ventajas y desventajas y algunos datos importantes a tener en cuenta, materiales a utilizar y como mantener una cadena de seguridad para que no se contaminen y lleguen sin riesgo a quienes lo van a utilizar.
 
 ### Prusa Protective Face Shield - RC1 & RC2
+
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/Prusa%20RC2%20Model.jpg)
+
 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1/remixes
 
 Tiempo Impresion: 2 hs de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
@@ -79,6 +82,9 @@ CONS
 - Mucho tiempo de impresion.
 
 ### Reversion Argentina de Prusa Face Shield - RC2
+
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShieldArg_Rev_02.jpg)
+
 https://www.thingiverse.com/thing:4235551
 
 Tiempo Impresion: 
@@ -100,6 +106,9 @@ CONS
 
 
 ### Prusa Protective Face Shield - RC2 - A4 Remix
+
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/Covid-19_headband_rc2_a4_fast.jpg)
+
 https://www.prusaprinters.org/prints/26214-prusa-protective-face-shield-rc2-a4-remix/files
 
 Tiempo Impresion: 
@@ -132,7 +141,7 @@ https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-casero-opc
 
 Por Lic. Fga Florencia Araoz y Dra. Beatriz Araoz (Lab3bio - UNSAM)
 
-### Protector Facial casero - Opcion 2 (En proceso)
+### Protector Facial casero - Opcion 2
 https://github.com/juanibuqt/covid19-resources/raw/master/Faceshield-casero-opcion2/Mascara%20casera.pdf
 
 Por Marcos Bertuola - mbertuola@unsam.edu.ar / Marcos.bertuola@gmail.com (Lab3bio - UNSAM)
