@@ -14,7 +14,7 @@ de que se ha encontrado SARS-CoV-2 RNA hasta 17 dias despues del desembarque de 
 
 Otro estudio publicado en febrero en The Journal of Hospital Infection analizó varias docenas de artículos publicados previamente sobre coronavirus humanos (aparte del nuevo coronavirus) para tener una mejor idea de cuánto tiempo podrian sobrevivir fuera del cuerpo humano https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext.
 
-Como regla general podriamos decir que considerando que el virus puede sobrevivir hasta 90 dias en superficies plasticas, dejar las piezas impresas o mascaras ensambladas a resguardo por 4 dias aprox antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus, aunque no se puede asegurar al 100% la efectividad de esta medida. (Referencia: https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973)
+Como regla general podriamos decir que considerando que el virus puede sobrevivir hasta 90 hs en superficies plasticas, dejar las piezas impresas o mascaras ensambladas a resguardo por 4 dias aprox antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus, aunque no se puede asegurar al 100% la efectividad de esta medida. (Referencia: https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973)
 
 ### Se habla mucho sobre limpieza de las mascaras, su desinfeccion, esterilidad y del problema de su porosidad, que hay de cierto y que tan viable es esta opcion si no se dispone de mascaras de uso medico?
 
