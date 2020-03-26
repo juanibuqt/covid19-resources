@@ -1,36 +1,58 @@
 # covid19-resources
 Por donde empezar!
 
-## FaceShields o Protectores Faciales Impresos 3D
+## Informacion general sobre COVID-19
 
-Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPI (Equipo de Proteccion Individual).
+### Cuanto tiempo vive el virus en superficies y como afecta a los protectores o piezas impresas?
 
-Hay cientos de diseños, testie algunos, pongo cada uno a continuacion con sus ventajas y desventajas y algunos datos importantes a tener en cuenta, materiales a utilizar y como mantener una cadena de seguridad para que no se contaminen y lleguen sin riesgo a quienes lo van a utilizar.
+Aun esta investigandose cuanto tiempo el virus sobrevive en distintas superficies como metales y plasticos, pero papers especializados e investigaciones recientes hablaban de 2 a 3 dias, aunque hay opiniones distintas.
 
-### Materiales de impresion
-Actualmente se esta imprimiendo con lo que se tiene, pero los materiales ideales para impresion son PETG o PLA.
-ABS no lo recomiendo por ser mas dificil para imprimir por tema temperaturas o tener una impresora cerrada idealmente, tambien por tema toxicidad en el proceso de impresion.
+El 11/03/20 un estudio publicado en https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf habla de permanencia en el aire de 3hs, en el cobre 4hs, carton 24hs y plasticos o aceros inoxidables hasta 72hs. El 17/03/20 se ha publicado una actualizacion de estos estudios en https://www.nejm.org/doi/10.1056/NEJMc2004973.
 
-### Esterilizacion o Desinfeccion de impresos y mascaras
-Todas estas mascaras impresas 3D por ser justamente impresas 3D son porosas y suceptibles a generar espacios donde es dificil su desinfeccion 100%. Las mismas no estan pensadas para ser "esteriles" sino que sean lo mas "limpias o desinfectadas" posibles.
+Hay reportes de la CDC (Centers for Disease Control and Prevention) https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e3.htm?s_cid=mm6912e3_w
+de que se ha encontrado SARS-CoV-2 RNA hasta 17 dias despues del desembarque de todas las personas en cuarentena abordo del crucero "Diamond Princess". Sin embargo, esto fue antes de que los procedimientos de desinfección tuvieran lugar y "los datos no pueden usarse para determinar si la transmisión se produjo desde superficies contaminadas", según el análisis. En otras palabras, no está claro si las partículas virales en estas superficies podrían haber infectado a las personas del crucero.
 
-Es por esto que la recomendacion es desinfectarlas con alcohol al 70%.
-En caso de intentar esterilizarlas, las impresas en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
+Otro estudio publicado en febrero en The Journal of Hospital Infection analizó varias docenas de artículos publicados previamente sobre coronavirus humanos (aparte del nuevo coronavirus) para tener una mejor idea de cuánto tiempo podrian sobrevivir fuera del cuerpo humano https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext.
+
+Como regla general podriamos decir que considerando que el virus puede sobrevivir hasta 90 dias en superficies plasticas, dejar las piezas impresas o mascaras ensambladas a resguardo por 4 dias aprox antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus, aunque no se puede asegurar al 100% la efectividad de esta medida. (Referencia: https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973)
+
+### Se habla mucho sobre limpieza de las mascaras, su desinfeccion, esterilidad y del problema de su porosidad, que hay de cierto y que tan viable es esta opcion si no se dispone de mascaras de uso medico?
+
+La tecnica de impresion 3D que se esta utilizando hoy dia para la rapida impresion de estas piezas es FDM (Fused Deposition Modeling), este tipo de impresion es por capas de material (filamento) que se va fundiendo sobre la anterior y de esta manera consolidando la pieza. Utilizar PETG o PLA no cambia esta caracteristica, siempre se mantiene la condicion de "porosidad" en el objeto impreso y por ende el "riesgo" de no poder "desinfectar" del todo la pieza.
+
+Tambien hay que decir que las mismas no estan pensadas para ser "esteriles" sino que sean lo mas "limpias o desinfectadas" posibles. Hablamos de esterilidad cuando las piezas van a entrar en contacto con el organismo de un paciente de forma directa. En este caso hablamos de desinfeccion al no tener contacto directo con el mismo.
+
+Sin embargo hay que tener en cuenta la situacion actual de faltante total de este tipo de proteccion en los trabajadores de salud, por lo que podemos decir que en circunstancias de emergencia como las actuales, darian cierta via libre de utilizarse, pero tambien errar por el lado de la seguridad y tratarlos como de un solo uso es prudente, por lo que considerarlas como una "solucion temporal" de emergencia a corto plazo contra la escasez de otras opciones certificadas seria una buena practica.
+
+En caso de intentar esterilizarlas, los impresos en PLA pueden hacerse con oxido de etileno, sin embargo por costos, tiempos no es lo mas recomendable.
 
 Para mas informacion sobre metodos de esterilizacion consultar el PDF "Plastics Compatibility with Sterilization Methods from ISM and IS Med Specialties" que se encuentra en el repositorio en la seccion "Papers>Info" - https://github.com/juanibuqt/covid19-resources/raw/master/Papers%20-%20Info/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
 
-### Regulacion actual (24/03/2020)
+La recomendacion es desinfectarlas con alcohol al 70%, tanto las piezas impresas como las pantallas.
+
+### Materiales de impresion
+
+Actualmente se esta imprimiendo con lo que se tiene, pero los materiales ideales para impresion son PETG o PLA.
+ABS no lo recomiendo por ser mas dificil para imprimir por tema temperaturas o tener una impresora cerrada idealmente, tambien aunque menor, por tema toxicidad en el proceso de impresion.
+
+### Regulacion actual sobre la fabricacion de este tipo de protecciones (Ultima check de informacion oficial: 24/03/2020)
+
 Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU por FDA - https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html. Por el momento no hay comunicacion ni documentacion emitida en Argentina por ANMAT, ni a favor o en contra de las mismas.
 
-### LEER CON ATENCION! - Manipulacion de las mascaras o elementos
+### Comprendo todo lo anterior, como tendria que manipular las piezas impresas o las mascaras ya ensambladas para entregarlas a profesionales de la salud?
 
 * Lo ideal es manejarse como si uno estuviera infectado por COVID-19, basicamente porque por mas que no tengamos sintomas o lo estemos, podemos ser portadores sin saberlo. 
 * Utiliza una mascara o barbijo, un par de guantes sin utilizar previamente para manipular las piezas impresas o ensamblar las mascaras.
 * Guarda las partes o mascaras ensambladas en una bolsa y sellala inmediatamente.
 * Habla con el personal de salud a quien le estas haciendo las mascaras y contale donde y como es el entorno donde estas imprimiendo.
-* Aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero papers especializados hablan de 2 a 3 dias.
-Eso significa que dejar las piezas impresas o mascaras ensambladas a resguardo por 2 o 3 dias antes de distribuirlas es una buena idea y reducirias criticamente la probabilidad de transmision del virus. (Referencia: https://www.nejm.org/doi/full/10.1056/NEJMc2004973 / https://www.nejm.org/doi/pdf/10.1056/NEJMc2004973)
-* No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada.
+* Como explicaba arriba, aun esta investigandose cuanto tiempo el virus sobrevive en plastico o superficies, pero no entregues las mascaras hasta pasados 4 dias de haberlas impreso y que esten en una bolsa sellada y aislada.
+* No almacenes las piezas impresas o mascaras en un solo lugar, minimiza el riesgo de contaminacion cruzada, y trata de entregarlas lo antes posible una vez cumplido el plazo de "cuarentena" de las mismas para evitar el riesgo de que se contaminen al permanecer en tu casa o el entorno donde las almacenas.
+
+## Modelos de FaceShields o Protectores Faciales Impresos 3D
+
+Los protectores faciales son extremadamente necesarios para la gente de salud, los mismos sirven para proteger cara, ojos, nariz y boca. No son reemplazo de los barbijos N95 o comunes en algunos casos, sino que se deben utilizar en conjunto y forman parte de lo que se denomina EPI (Equipo de Proteccion Individual).
+
+Hay cientos de diseños, testie algunos, pongo cada uno a continuacion con sus ventajas y desventajas y algunos datos importantes a tener en cuenta, materiales a utilizar y como mantener una cadena de seguridad para que no se contaminen y lleguen sin riesgo a quienes lo van a utilizar.
 
 
 ### Prusa Protective Face Shield - RC1 & RC2
