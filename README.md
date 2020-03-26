@@ -115,6 +115,7 @@ CONS
 - No es tan comodo como los otros modelos.
 - No esta tan bien resuelta la sujecion de la pantalla frontal al impreso.
 
+----------------------------------------------------------------------------------------------------------------------
 
 ## FaceShields o Protectores Faciales utilizando Corte laser
 
@@ -122,6 +123,7 @@ CONS
 
 https://hackaday.io/project/170481-laser-cut-medical-shield
 
+----------------------------------------------------------------------------------------------------------------------
 
 ## FaceShields o Protectores Faciales caseros
 
