@@ -81,28 +81,26 @@ CONS
 - Es preciso utilizar muchisimo material vs otros modelos.
 - Mucho tiempo de impresion.
 
-### Reversion Argentina de Prusa Face Shield - RC2
+### Version Arg de Prusa FaceShield - R03
 
-![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShieldArg_Rev_02.jpg)
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShieldArg_Rev_03.jpg)
 
-https://www.thingiverse.com/thing:4235551
+https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-arg-redise%C3%B1o-v3
 
 Tiempo Impresion: 
-1:30 hs de impresión (ø0.4mm Nozzle - 0.3mm de altura de capa) 
-0:55 hs de impresión (ø0.6mm Nozzle - 0.4mm de altura de capa)
+55 min de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
 
 Consumo de material: 25 gr de PLA
-
-Optimizacion Maxima: 1:20 hs de impresion / 22 gr de PLA
 
 PRO
 - El diseño cumple su funcion, es resistente y comodo. 
 - Se colaboro para llegar a este modelo pensando en reducir tiempos de impresion y consumo de material.
 - Bien documentado, es posible escalarlo a produccion haciendo corte laser en el acetato.
+- Se ajusto el diseño para que sea mas facil colocar la banda de fijacion a la cabeza
+- No tiene txt ni nada demandando menos tiempo de impresion
 
 CONS
-- Sigue demandando bastante material vs otros modelos mas simples.
-- Sigue siendo necesario bastante tiempo de impresion.
+- Demanda tiempo y material de impresion mas elevado que el modelo simple de la Prusa
 
 
 ### Prusa Protective Face Shield - RC2 - A4 Remix
@@ -128,9 +126,18 @@ CONS
 
 ## FaceShields o Protectores Faciales utilizando Corte laser
 
-### LaserCut Medical Shield - Protector Facial por corte laser
+### LaserCut FaceShield - Hackaday Design
+
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/Faceshield Hackaday.jpg)
 
 https://hackaday.io/project/170481-laser-cut-medical-shield
+
+### LaserCut FaceShield - ProtoHeaven.org
+
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShield Protoheaven.jpg)
+
+https://www.protohaven.org/proto-shield/
+
 
 ----------------------------------------------------------------------------------------------------------------------
 
