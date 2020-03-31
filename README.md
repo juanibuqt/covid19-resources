@@ -128,13 +128,13 @@ CONS
 
 ### LaserCut FaceShield - Hackaday Design
 
-![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/Faceshield Hackaday.jpg)
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/Faceshield_Hackaday.jpg)
 
 https://hackaday.io/project/170481-laser-cut-medical-shield
 
 ### LaserCut FaceShield - ProtoHeaven.org
 
-![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShield Protoheaven.jpg)
+![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShield_Protoheaven.jpg)
 
 https://www.protohaven.org/proto-shield/
 
