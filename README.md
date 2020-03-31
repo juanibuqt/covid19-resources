@@ -35,9 +35,10 @@ La recomendacion es desinfectarlas con alcohol al 70%, tanto las piezas impresas
 Actualmente se esta imprimiendo con lo que se tiene, pero los materiales ideales para impresion son PETG o PLA.
 ABS no lo recomiendo por ser mas dificil para imprimir por tema temperaturas o tener una impresora cerrada idealmente, tambien aunque menor, por tema toxicidad en el proceso de impresion.
 
-### Regulacion actual sobre la fabricacion de este tipo de protecciones (Ultima check de informacion oficial: 24/03/2020)
+### Regulacion actual sobre la fabricacion de este tipo de protecciones (Ultima check de informacion oficial: 31/03/2020)
 
-Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU por FDA - https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html. Por el momento no hay comunicacion ni documentacion emitida en Argentina por ANMAT, ni a favor o en contra de las mismas.
+Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU por FDA - https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html. 
+Por el momento la unica documentacion emitida en Argentina es por ANMAT, se encuentra subida a este repositorio - https://github.com/juanibuqt/covid19-resources/blob/master/Papers%20-%20Info/anmat1.pdf 
 
 ### Comprendo todo lo anterior, como tendria que manipular las piezas impresas o las mascaras ya ensambladas para entregarlas a profesionales de la salud?
 
@@ -52,6 +53,10 @@ Actualmente la fabricacion de las mascaras esta exceptuada de regulacion en EEUU
 
 Si, existe una guia muy detallada sobre como se debe utilizar el EPP, cuidados y secuencia de colocacion de cada uno de los elementos, como tambien el descarte de los mismos. Toda esa informacion podes encontrarla en https://www.argentina.gob.ar/salud/coronavirus-COVID-19/recomendaciones-uso-epp
 
+### Existe alguna fuente de informacion confiable de donde tener mas informacion sobre cuidados y procedimientos sobre COVID19 en Argentina?
+
+Si, existe. La Sociedad Argentina de Infectologia hizo una guia y se encuentra subida en el site de ellos https://www.sadi.org.ar/novedades/item/954-recomendaciones-inter-institucional-para-la-prevencion-de-covid-19-sadi-sati-adeci-ine
+(Ultima Actualizacion 23/09/2020)
 
 ----------------------------------------------------------------------------------------------------------------------
 
