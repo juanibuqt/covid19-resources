@@ -90,7 +90,7 @@ CONS
 
 ![Image description](https://github.com/juanibuqt/covid19-resources/raw/master/Images/FaceShieldArg_Rev_03.jpg)
 
-https://github.com/juanibuqt/covid19-resources/tree/master/Faceshield-arg-redise%C3%B1o-v3
+https://github.com/juanibuqt/covid19-resources/blob/master/Faceshield-arg-rediseno-v3/Faceshield-arg-rediseno-v3.stl
 
 Tiempo Impresion: 
 55 min de impresión (ø0.4mm Nozzle - 0.35mm de altura de capa) 
